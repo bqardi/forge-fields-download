@@ -1,7 +1,7 @@
 {
   "name": "Forge Fields",
   "slug": "forge-fields",
-  "version": "1.0.15",
+  "version": "1.0.2",
   "tested": "6.5",
   "requires": "5.8",
   "author": "bqardi",
@@ -12,6 +12,6 @@
   "sections": {
     "description": "Forge Fields - Compose. Code. Create. is a developer-first plugin for defining dynamic fields and content in WordPress using PHP classes and a composition-based approach.",
     "installation": "1. Download the plugin ZIP file.\n2. Upload the folder to `/wp-content/plugins/` or install via the WordPress Plugin Installer.\n3. Activate the plugin through the 'Plugins' screen in WordPress.",
-    "changelog": "== 1.0.15<br>- New patch release with br tags in changelog.<br><br>== 1.0.14<br>- New patch release with proper changelog.<br><br>== 1.0.13<br>- New patch release.<br><br>== 1.0.12<br>- New patch release.<br><br>== 1.0.11<br>- New patch release.<br><br>== 1.0.10<br>- New patch release.<br><br>== 1.0.9<br>- New patch release.<br><br>== 1.0.8<br>- New patch release.<br><br>== 1.0.7<br>- New patch release.<br><br>== 1.0.6<br>- New patch release.<br><br>== 1.0.5<br>- New patch release.<br><br>== 1.0.4<br>- New patch release.<br><br>== 1.0.3<br>- New patch release.<br><br>== 1.0.2<br>- Minor fixes.<br><br>== 1.0.1<br>- Initial release.<br>"
+    "changelog": "**v1.0.1** (2025-01-22)<br>- Initial release.<br>"
   }
 }
