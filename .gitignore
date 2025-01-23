@@ -3,4 +3,5 @@ node_modules
 
 # Important that this is not pushed to the repository
 # It is released from https://github.com/bqardi/forge-fields repository!
+# with proper versioning and release notes/change-logs
 docs/forge-fields.zip
