@@ -1,0 +1,17 @@
+{
+  "name": "ForgeFields",
+  "slug": "forge-fields",
+  "version": "1.0.1",
+  "tested": "6.5",
+  "requires": "5.8",
+  "author": "bqardi",
+  "author_profile": "https://bqardi.github.io/forge-fields-download/",
+  "download_link": "https://bqardi.github.io/forge-fields-download/forge-fields.zip",
+  "requires_php": "7.4",
+  "last_updated": "2023-10-01",
+  "sections": {
+    "description": "ForgeFields is a developer-first plugin for defining dynamic fields and content in WordPress using PHP classes and a composition-based approach.",
+    "installation": "1. Download the plugin ZIP file.\n2. Upload the folder to `/wp-content/plugins/` or install via the WordPress Plugin Installer.\n3. Activate the plugin through the 'Plugins' screen in WordPress.",
+    "changelog": "### 1.0.1\n- Initial release."
+  }
+}
