@@ -1,7 +1,7 @@
 {
   "name": "ForgeFields",
   "slug": "forge-fields",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "tested": "6.5",
   "requires": "5.8",
   "author": "bqardi",
