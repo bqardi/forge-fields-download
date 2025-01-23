@@ -1,7 +1,7 @@
 {
   "name": "Forge Fields",
   "slug": "forge-fields",
-  "version": "1.0.11",
+  "version": "1.0.12",
   "tested": "6.5",
   "requires": "5.8",
   "author": "bqardi",
@@ -23,7 +23,8 @@
       "### 1.0.8\n- New patch release.",
       "### 1.0.9\n- New patch release.",
       "### 1.0.10\n- New patch release.",
-      "### 1.0.11\n- New patch release."
+      "### 1.0.11\n- New patch release.",
+      "### 1.0.12\n- New patch release."
     ]
   }
 }
