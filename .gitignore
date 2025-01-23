@@ -1,0 +1,6 @@
+node_modules
+.vscode
+
+# Important that this is not pushed to the repository
+# It is released from https://github.com/bqardi/forge-fields repository!
+docs/forge-fields.zip
